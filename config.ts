@@ -28,7 +28,7 @@ export const config: Config = {
   },
 
   // Theme
-  theme: 'nord',
+  theme: 'catppuccin-mocha',
 
   // Place a background image in ./src/assets/images/ and provide the file name.
   // Alternatively, provide a URL to an image. If the page is served over https, you may have issues loading images from insecure origins.
@@ -109,7 +109,7 @@ export const config: Config = {
       {
         name: 'Mail',
         icon: 'envelope',
-        url: 'https://mail.protonmail.com/',
+        url: 'https://gmail.com/',
       },
       {
         name: 'Todoist',
@@ -127,9 +127,9 @@ export const config: Config = {
         url: 'https://reddit.com',
       },
       {
-        name: 'Odysee',
+        name: 'Youtube',
         icon: 'fab-youtube',
-        url: 'https://odysee.com/',
+        url: 'https://youtube.com/',
       },
     ],
     // Second buttons group
